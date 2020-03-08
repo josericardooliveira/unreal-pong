@@ -1,4 +1,4 @@
-# unreal-pong
+# Pong
 
 Simple project creating an old school Pong game using Paper2D and Unreal Engine 4.
 The whole game was made using blueprints
