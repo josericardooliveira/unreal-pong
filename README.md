@@ -4,7 +4,7 @@ Simple project creating an old school Pong game using Paper2D and Unreal Engine 
 The whole game was made using blueprints
 
 ## Unreal Engine version
-Unreal Engine 4.24.1
+Unreal Engine 4.24.3
 
 ## Project structure
 * AI: Opponent AI
